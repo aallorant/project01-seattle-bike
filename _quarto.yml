@@ -6,7 +6,7 @@ website:
   navbar:
     right:
       - icon: github
-        href: https://github.com/aallorant/project-01
+        href: https://github.com/aallorant/project01-seattle-bike
     left:
       - text: Project
         href: index.qmd
